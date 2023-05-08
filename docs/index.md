@@ -1,3 +1,3 @@
-# This is Machine Learning Webiste
+# This is Machine Learning Website
 
 ## Done by Lekso, Neloy, and Monique
