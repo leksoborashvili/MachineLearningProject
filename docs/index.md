@@ -34,4 +34,4 @@ The Mean Squared Error of our final linear regression model is 0.086303844348524
 # Video
   [Video Link on Drive](https://drive.google.com/file/d/1t1ybnse9Io1G8HzbozXdmpdGdCZYUeBi/view?usp=sharing)
 # Executive Report
-  []()
+  [Executive Report](https://github.com/leksoborashvili/MachineLearningProject/blob/main/Machine_Learning_Final_Project_Borashvili%2CBrown%2CKundu%20.pdf)
