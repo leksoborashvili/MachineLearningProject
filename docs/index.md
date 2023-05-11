@@ -32,6 +32,6 @@ The Mean Squared Error of our final linear regression model is 0.086303844348524
 # Colab
   [Link to Colab](https://colab.research.google.com/drive/1UDYhtXJfIHzw46y_V9-eYcPAK9fcGPHA?usp=sharing)
 # Video
-  []()
+  [Video Link on Drive](https://drive.google.com/file/d/1t1ybnse9Io1G8HzbozXdmpdGdCZYUeBi/view?usp=sharing)
 # Executive Report
   []()
