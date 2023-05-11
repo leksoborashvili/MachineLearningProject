@@ -32,6 +32,6 @@ The Mean Squared Error of our final linear regression model is 0.086303844348524
 # Colab
   [Link to Colab](https://colab.research.google.com/drive/1UDYhtXJfIHzw46y_V9-eYcPAK9fcGPHA?usp=sharing)
 # Video
-  [Video Link on Drive](https://youtu.be/9tz80vJjQtc)
+  [Video Link on Youtube](https://youtu.be/9tz80vJjQtc)
 # Executive Report
   [Executive Report](https://github.com/leksoborashvili/MachineLearningProject/blob/main/Machine_Learning_Final_Project_Borashvili%2CBrown%2CKundu%20.pdf)
